@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+nltk
+selenium
+beautifulsoup4
+requests
+pandas
+numpy
+matplotlib
+wordcloud
+webdriver-manager
